@@ -6,6 +6,6 @@ The game was developed in Java, relying on many features provided by the externa
 Unit testing was also extensively produced and performed on the code.
 
 
-<video width="320" height="240" controls>
+<video>
       <source src=”https://vimeo.com/user126667518/review/476850682/6008a9234c” type=video/ogg>
     </video>

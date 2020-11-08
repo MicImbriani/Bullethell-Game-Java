@@ -6,6 +6,5 @@ The game was developed in Java, relying on many features provided by the externa
 Unit testing was also extensively produced and performed on the code.
 
 
-<video width="400" height="200" controls>
-      <source src=”https://streamable.com/orsiqn” type=video/ogg>
-</video>
+Video Teaser for the Game:
+https://streamable.com/orsiqn

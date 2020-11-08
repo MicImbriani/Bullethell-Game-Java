@@ -4,3 +4,8 @@ SEPR is a team-based module at University Of York that attempts to promote indep
 
 The game was developed in Java, relying on many features provided by the external library LibGDX.
 Unit testing was also extensively produced and performed on the code.
+
+
+<video width="320" height="240" controls>
+      <source src=”https://vimeo.com/user126667518/review/476850682/6008a9234c” type=video/ogg>
+    </video>

@@ -8,3 +8,6 @@ Unit testing was also extensively produced and performed on the code.
 
 Video Teaser for the Game:
 https://streamable.com/orsiqn
+
+
+<img src="https://micheleimbriani.files.wordpress.com/2020/10/sepr.png" alt="SEPR">

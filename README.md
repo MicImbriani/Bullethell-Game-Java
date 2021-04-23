@@ -1,3 +1,4 @@
+# _[COMPLETED]_
 # SEPR (Software Engeneering Project).
 
 SEPR is a team-based module at University Of York that attempts to promote independent learning through the development of a VideoGame (Kroy).
